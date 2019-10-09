@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GetIIMEI</string>
+    <string name="imei_text">Your IMEI shown here</string>
+    <string name="imei_button">Get IMEI</string>
+    <string name="second_activity">Second Activity open</string>
+    <string name="camera" />
+    <string name="screen_test">Screen</string>
+    <string name="screen_testIntent">ScreenTest</string>
+</resources>
